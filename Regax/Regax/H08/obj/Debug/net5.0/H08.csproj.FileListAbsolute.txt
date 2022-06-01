@@ -1,0 +1,16 @@
+D:\Home work\OOP\2course\Regax\Regax\H08\bin\Debug\net5.0\H08.exe
+D:\Home work\OOP\2course\Regax\Regax\H08\bin\Debug\net5.0\H08.deps.json
+D:\Home work\OOP\2course\Regax\Regax\H08\bin\Debug\net5.0\H08.runtimeconfig.json
+D:\Home work\OOP\2course\Regax\Regax\H08\bin\Debug\net5.0\H08.runtimeconfig.dev.json
+D:\Home work\OOP\2course\Regax\Regax\H08\bin\Debug\net5.0\H08.dll
+D:\Home work\OOP\2course\Regax\Regax\H08\bin\Debug\net5.0\H08.pdb
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\H08.csproj.AssemblyReference.cache
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\H08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\H08.AssemblyInfoInputs.cache
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\H08.AssemblyInfo.cs
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\H08.csproj.CoreCompileInputs.cache
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\H08.dll
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\refint\H08.dll
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\H08.pdb
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\H08.genruntimeconfig.cache
+D:\Home work\OOP\2course\Regax\Regax\H08\obj\Debug\net5.0\ref\H08.dll
