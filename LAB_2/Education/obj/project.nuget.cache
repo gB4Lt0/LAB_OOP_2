@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4C7M77dXOJmzj192sfiA6xZ+1uytrLlzBJ3GqaBVkKAWbvEE2rOtgjzvTj+phQF1ijuvDuw8/0uyHbDs6OdNag==",
+  "success": true,
+  "projectFilePath": "D:\\Home work\\OOP\\2course\\LAB\\LAB_2\\Education\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
