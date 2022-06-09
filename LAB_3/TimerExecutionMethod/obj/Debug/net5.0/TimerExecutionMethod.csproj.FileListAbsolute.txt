@@ -1,0 +1,16 @@
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\bin\Debug\net5.0\TimerExecutionMethod.exe
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\bin\Debug\net5.0\TimerExecutionMethod.deps.json
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\bin\Debug\net5.0\TimerExecutionMethod.runtimeconfig.json
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\bin\Debug\net5.0\TimerExecutionMethod.runtimeconfig.dev.json
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\bin\Debug\net5.0\TimerExecutionMethod.dll
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\bin\Debug\net5.0\TimerExecutionMethod.pdb
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\TimerExecutionMethod.csproj.AssemblyReference.cache
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\TimerExecutionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\TimerExecutionMethod.AssemblyInfoInputs.cache
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\TimerExecutionMethod.AssemblyInfo.cs
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\TimerExecutionMethod.csproj.CoreCompileInputs.cache
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\TimerExecutionMethod.dll
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\refint\TimerExecutionMethod.dll
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\TimerExecutionMethod.pdb
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\TimerExecutionMethod.genruntimeconfig.cache
+D:\Home work\OOP\2course\LAB\LAB_3\TimerExecutionMethod\obj\Debug\net5.0\ref\TimerExecutionMethod.dll

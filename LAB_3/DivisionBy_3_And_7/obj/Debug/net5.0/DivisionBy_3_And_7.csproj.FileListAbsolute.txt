@@ -1,0 +1,16 @@
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\bin\Debug\net5.0\DivisionBy_3_And_7.exe
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\bin\Debug\net5.0\DivisionBy_3_And_7.deps.json
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\bin\Debug\net5.0\DivisionBy_3_And_7.runtimeconfig.json
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\bin\Debug\net5.0\DivisionBy_3_And_7.runtimeconfig.dev.json
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\bin\Debug\net5.0\DivisionBy_3_And_7.dll
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\bin\Debug\net5.0\DivisionBy_3_And_7.pdb
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\DivisionBy_3_And_7.csproj.AssemblyReference.cache
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\DivisionBy_3_And_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\DivisionBy_3_And_7.AssemblyInfoInputs.cache
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\DivisionBy_3_And_7.AssemblyInfo.cs
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\DivisionBy_3_And_7.csproj.CoreCompileInputs.cache
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\DivisionBy_3_And_7.dll
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\refint\DivisionBy_3_And_7.dll
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\DivisionBy_3_And_7.pdb
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\DivisionBy_3_And_7.genruntimeconfig.cache
+D:\Home work\OOP\2course\LAB\LAB_3\DivisionBy_3_And_7\obj\Debug\net5.0\ref\DivisionBy_3_And_7.dll

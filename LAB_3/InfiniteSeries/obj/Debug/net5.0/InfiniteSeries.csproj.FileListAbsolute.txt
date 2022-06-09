@@ -1,0 +1,16 @@
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\bin\Debug\net5.0\InfiniteSeries.exe
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\bin\Debug\net5.0\InfiniteSeries.deps.json
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\bin\Debug\net5.0\InfiniteSeries.runtimeconfig.json
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\bin\Debug\net5.0\InfiniteSeries.runtimeconfig.dev.json
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\bin\Debug\net5.0\InfiniteSeries.dll
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\bin\Debug\net5.0\InfiniteSeries.pdb
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\InfiniteSeries.csproj.AssemblyReference.cache
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\InfiniteSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\InfiniteSeries.AssemblyInfoInputs.cache
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\InfiniteSeries.AssemblyInfo.cs
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\InfiniteSeries.csproj.CoreCompileInputs.cache
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\InfiniteSeries.dll
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\refint\InfiniteSeries.dll
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\InfiniteSeries.pdb
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\InfiniteSeries.genruntimeconfig.cache
+D:\Home work\OOP\2course\LAB\LAB_3\InfiniteSeries\obj\Debug\net5.0\ref\InfiniteSeries.dll

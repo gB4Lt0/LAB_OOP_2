@@ -1,0 +1,16 @@
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\bin\Debug\net5.0\SharpWasher.exe
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\bin\Debug\net5.0\SharpWasher.deps.json
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\bin\Debug\net5.0\SharpWasher.runtimeconfig.json
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\bin\Debug\net5.0\SharpWasher.runtimeconfig.dev.json
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\bin\Debug\net5.0\SharpWasher.dll
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\bin\Debug\net5.0\SharpWasher.pdb
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\SharpWasher.csproj.AssemblyReference.cache
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\SharpWasher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\SharpWasher.AssemblyInfoInputs.cache
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\SharpWasher.AssemblyInfo.cs
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\SharpWasher.csproj.CoreCompileInputs.cache
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\SharpWasher.dll
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\refint\SharpWasher.dll
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\SharpWasher.pdb
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\SharpWasher.genruntimeconfig.cache
+D:\Home work\OOP\2course\LAB\LAB_3\SharpWasher\obj\Debug\net5.0\ref\SharpWasher.dll
